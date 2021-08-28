@@ -8,4 +8,5 @@ A collection of repositories used during hands-on sessions at Summer School - II
 
 [speaker-separation](https://github.com/Sindhu-Hegde/speaker-separation) : Multimodal Learning
 
+[SS2021_HandsOn1_Aug28](https://github.com/ThrupthiAnn/SS2021_HandsOn1_Aug28) : Face classification and verification, Classification and segmentation of medical images
 
