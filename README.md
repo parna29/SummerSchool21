@@ -10,3 +10,5 @@ A collection of repositories used during hands-on sessions at Summer School - II
 
 [SS2021_HandsOn1_Aug28](https://github.com/ThrupthiAnn/SS2021_HandsOn1_Aug28) : Face classification and verification, Classification and segmentation of medical images
 
+[SS2021_HandsOn2_Aug28](https://github.com/ThrupthiAnn/SS2021_HandsOn2_Aug28) : Sentiment Analysis, Stereo Correspondence and Variational Autoencoder
+
